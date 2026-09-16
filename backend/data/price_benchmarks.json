@@ -1,0 +1,22 @@
+{
+    "PARACETAMOL 500MG (Strip of 10)": {
+        "benchmark_price": 25.00,
+        "unit": "strip",
+        "source": "Recoup Demo Benchmark"
+    },
+    "IBUPROFEN 200MG (Strip of 10)": {
+        "benchmark_price": 40.00,
+        "unit": "strip",
+        "source": "Recoup Demo Benchmark"
+    },
+    "VITAMIN C (1000mg, Tube)": {
+        "benchmark_price": 100.00,
+        "unit": "tube",
+        "source": "Recoup Demo Benchmark"
+    },
+    "BAND-AID ASSORTED (Pack of 20)": {
+        "benchmark_price": 60.00,
+        "unit": "pack",
+        "source": "Recoup Demo Benchmark"
+    }
+}
