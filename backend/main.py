@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
 import shutil
 
-from backend.agent import analyze_bill_image
+from agent import analyze_bill_image
 
 
 app = FastAPI(title="Recoup API")
