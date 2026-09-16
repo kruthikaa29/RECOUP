@@ -5,7 +5,7 @@ import re
 from strands import Agent
 from strands.models import BedrockModel
 
-from backend.benchmark import benchmark_item
+from benchmark import benchmark_item
 from backend.coding_audit import audit_bill
 from backend.negotiation import generate_negotiation_letter
 
