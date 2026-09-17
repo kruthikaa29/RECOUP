@@ -86,7 +86,7 @@ export default function Home() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/upload-bill",
+        "https://recoup-backend-c1yr.onrender.com/upload-bill",
         {
           method: "POST",
           body: formData,
