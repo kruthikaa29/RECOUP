@@ -7,7 +7,7 @@ from strands.models import BedrockModel
 
 from benchmark import benchmark_item
 from coding_audit import audit_bill
-from backend.negotiation import generate_negotiation_letter
+from negotiation import generate_negotiation_letter
 
 
 bedrock_model = BedrockModel(
